@@ -20,7 +20,7 @@ let list5 = [
               {name = "aaa"; month = 1; day = 1; blood_type = "O"};
               {name = "bbb"; month = 6; day = 20; blood_type = "B"};
               {name = "ccc"; month = 8; day = 31; blood_type = "A"};
-              {name = "dddd"; month = 9; day = 22; blood_type = "A"};
+              {name = "ddd"; month = 9; day = 22; blood_type = "A"};
             ]
 
 let rec count_A list = match list with
